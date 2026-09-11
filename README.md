@@ -247,9 +247,3 @@ marketing-campaign-roi-analysis/
 5. Run all cells — charts generate, data loads into MySQL, Excel file exports automatically
 
 ---
-
-## Author
-
-**Ashish Kumar Dongre**
-
-🔗 [LinkedIn](https://www.linkedin.com/in/ashish-kumar-dongre-742a6217b/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/analytics-ak/marketing-campaign-roi-analysis) &nbsp;|&nbsp; 📂 [Dataset on Kaggle](https://www.kaggle.com/datasets/jackdaoud/marketing-data)
